@@ -1,4 +1,4 @@
-#Parakram '25 Website
+# Parakram '25 Website
 Parakram-25 is the official website for our college’s annual sports fest, designed and developed using the MERN stack with a focus on performance, scalability, and user engagement.
 
 ## Owner Information
